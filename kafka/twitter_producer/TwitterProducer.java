@@ -23,11 +23,11 @@ public class TwitterProducer {
 
     Logger logger = LoggerFactory.getLogger(TwitterProducer.class.getName());
 
-    // Enter your secret keys here
-    String consumerKey = "";
-    String consumerSecret = "";
-    String token = "";
-    String secret = "";
+    // Remember to enter your secret keys
+    //String consumerKey = "";
+    //String consumerSecret = "";
+    //String token = "";
+    //String secret = "";
 
     // !!!!!!!!!!!!!!!!! Search keys !!!!!!!!!!!!!!!!!!!!!!!!!!!!!
     // Optional: set up some followings and track terms
